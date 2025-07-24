@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=\, initial-scale=1.0">
     <title>Intro PHP</title>
 </head>
+
 <body>
     <h1>Welcome to PHP Basic</h1>
     <p>This is a simple PHP application.</p>
@@ -21,8 +23,8 @@
 
     <dev style="color: blue;">
         <?php
-            echo "Hello World<br>";
-            print "<span style='color:Red;'>Pakhapol Kaolim</span>";
+        echo "Hello World<br>";
+        print "<span style='color:Red;'>Pakhapol Kaolim</span>";
         ?>
     </dev>
 
@@ -32,8 +34,11 @@
         <li><a href="W01-01-introPHP.php">Intro PHP</a></li>
         <li><a href="W02_01_oddEvenNumber.php">Odd-Even-Number</a></li>
         <li><a href="W02_02_grade.php">Calculate Grade</a></li>
-        <li><a href="HW02_calmon.php">Calculate Money</a></li>
+        <li><a href="">Calculate Money</a></li>
+        <li><a href="W06_01_loopProduct.php">Show Product (fix data)/a></li>
+        <li><a href="HW02_calmon.php">Connect Database</a></li>
+        <li><a href="HW02_calmon.php">Show Product(From Database)</a></li>
     </ul>
-    
 </body>
+
 </html>
