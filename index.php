@@ -34,9 +34,10 @@
         <li><a href="W01-01-introPHP.php">Intro PHP</a></li>
         <li><a href="W02_01_oddEvenNumber.php">Odd-Even-Number</a></li>
         <li><a href="W02_02_grade.php">Calculate Grade</a></li>
-        <li><a href="">Calculate Money</a></li>
+        <li><a href="W02_calculate_monney.php">Calculate Money</a></li>
         <li><a href="W06_01_loopProduct.php">Show Product (fix data)/a></li>
-        <li><a href="HW02_calmon.php">Connect Database</a></li>
+        <li><a href="W07_01_connectDB.php">Connect Database</a></li>
+        <li><a href="W07_02_fetchData.php">fetch Database</a></li>
         <li><a href="HW02_calmon.php">Show Product(From Database)</a></li>
     </ul>
 </body>
